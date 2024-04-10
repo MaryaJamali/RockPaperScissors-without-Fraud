@@ -32,3 +32,7 @@ while True:
             print("I won :p ")
         elif m_c == 2:
             print("You won :' ")
+
+# Name of the programmer: Maryam Jamali
+# Email address: m.jamali16@yahoo.com
+# GitHub address: https://github.com/MaryaJamali
